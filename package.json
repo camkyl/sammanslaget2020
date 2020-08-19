@@ -1,0 +1,26 @@
+{
+  "name": "sammanslaget2020",
+  "version": "1.0.0",
+  "description": "Campaign for STF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camiwd/sammanslaget2020.git"
+  },
+  "author": "Camilla Kylmänen Sjörén",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camiwd/sammanslaget2020/issues"
+  },
+  "homepage": "https://github.com/camiwd/sammanslaget2020#readme",
+  "dependencies": {
+    "parcel": "^2.0.0-beta.1"
+  },
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
+}
