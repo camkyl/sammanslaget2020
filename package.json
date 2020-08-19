@@ -2,10 +2,11 @@
   "name": "sammanslaget2020",
   "version": "1.0.0",
   "description": "Campaign for STF",
-  "main": "index.js",
+  "main": "public/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel public/index.html"
+    "dev": "parcel public/index.html",
+    "build": "parcel build public/index.html"
   },
   "repository": {
     "type": "git",
