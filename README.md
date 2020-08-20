@@ -1,2 +1,2 @@
-# sammanslaget2020
-Campaign for STF
+# Sammanslaget 2020
+Campaign for Svenska Turistföreningen, STF.
